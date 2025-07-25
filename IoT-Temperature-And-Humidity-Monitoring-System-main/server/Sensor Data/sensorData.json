@@ -1,0 +1,2306 @@
+[
+  {
+    "timestamp": "25/07/2025 07:43:26 PM",
+    "temperature": 23.79,
+    "humidity": 41.13,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:43:31 PM",
+    "temperature": 24.64,
+    "humidity": 43.95,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:43:36 PM",
+    "temperature": 25.64,
+    "humidity": 41.68,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:43:41 PM",
+    "temperature": 27.06,
+    "humidity": 41.87,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:43:46 PM",
+    "temperature": 28.29,
+    "humidity": 49.62,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:43:51 PM",
+    "temperature": 26.13,
+    "humidity": 55.32,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:43:56 PM",
+    "temperature": 22.88,
+    "humidity": 45.67,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:44:01 PM",
+    "temperature": 24.99,
+    "humidity": 48.06,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:44:06 PM",
+    "temperature": 29.4,
+    "humidity": 56.11,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:44:11 PM",
+    "temperature": 25.98,
+    "humidity": 44.63,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:44:16 PM",
+    "temperature": 21.58,
+    "humidity": 50.49,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:44:21 PM",
+    "temperature": 22.76,
+    "humidity": 53.58,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:44:26 PM",
+    "temperature": 20.77,
+    "humidity": 42.49,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:44:31 PM",
+    "temperature": 28.77,
+    "humidity": 56.16,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:44:36 PM",
+    "temperature": 26.01,
+    "humidity": 49.17,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:44:41 PM",
+    "temperature": 28.51,
+    "humidity": 41.59,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:44:46 PM",
+    "temperature": 21.6,
+    "humidity": 42.13,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:44:51 PM",
+    "temperature": 29.25,
+    "humidity": 53.13,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:44:56 PM",
+    "temperature": 21.34,
+    "humidity": 40.46,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:45:01 PM",
+    "temperature": 23.15,
+    "humidity": 56.45,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:45:06 PM",
+    "temperature": 25.8,
+    "humidity": 51.83,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:45:11 PM",
+    "temperature": 20.34,
+    "humidity": 54.37,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:45:16 PM",
+    "temperature": 26.51,
+    "humidity": 50.31,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:45:21 PM",
+    "temperature": 27.21,
+    "humidity": 53.78,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:45:26 PM",
+    "temperature": 25.75,
+    "humidity": 51.9,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:45:31 PM",
+    "temperature": 27.45,
+    "humidity": 48.7,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:45:36 PM",
+    "temperature": 24.19,
+    "humidity": 47.09,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:45:41 PM",
+    "temperature": 22.38,
+    "humidity": 46.23,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:45:46 PM",
+    "temperature": 27.79,
+    "humidity": 44.54,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:45:51 PM",
+    "temperature": 21.99,
+    "humidity": 54.71,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:45:56 PM",
+    "temperature": 25.52,
+    "humidity": 45.94,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:46:01 PM",
+    "temperature": 23,
+    "humidity": 49.89,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:46:06 PM",
+    "temperature": 26.38,
+    "humidity": 44.63,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:46:11 PM",
+    "temperature": 23.26,
+    "humidity": 58.42,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:46:16 PM",
+    "temperature": 27.68,
+    "humidity": 47.39,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:46:21 PM",
+    "temperature": 29.74,
+    "humidity": 53.53,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:46:26 PM",
+    "temperature": 26.68,
+    "humidity": 42.24,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:46:40 PM",
+    "temperature": 26.94,
+    "humidity": 50.82,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:46:45 PM",
+    "temperature": 22.38,
+    "humidity": 56.36,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:46:50 PM",
+    "temperature": 29.39,
+    "humidity": 51.04,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:46:55 PM",
+    "temperature": 29.88,
+    "humidity": 45.74,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:00 PM",
+    "temperature": 27.45,
+    "humidity": 52.7,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:05 PM",
+    "temperature": 20.7,
+    "humidity": 43.56,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:10 PM",
+    "temperature": 24.81,
+    "humidity": 52.13,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:15 PM",
+    "temperature": 29.21,
+    "humidity": 50.75,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:20 PM",
+    "temperature": 22.49,
+    "humidity": 54.63,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:25 PM",
+    "temperature": 20.17,
+    "humidity": 40.45,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:30 PM",
+    "temperature": 20.12,
+    "humidity": 58.76,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:35 PM",
+    "temperature": 23.07,
+    "humidity": 47.78,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:40 PM",
+    "temperature": 20.51,
+    "humidity": 59.93,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:45 PM",
+    "temperature": 25.91,
+    "humidity": 56.83,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:50 PM",
+    "temperature": 25.64,
+    "humidity": 41.04,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:47:55 PM",
+    "temperature": 25.16,
+    "humidity": 51.2,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:48:00 PM",
+    "temperature": 26.85,
+    "humidity": 59.68,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:48:05 PM",
+    "temperature": 26.09,
+    "humidity": 40.1,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:48:10 PM",
+    "temperature": 27.93,
+    "humidity": 44.64,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:48:15 PM",
+    "temperature": 23.99,
+    "humidity": 52.6,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:48:20 PM",
+    "temperature": 23.69,
+    "humidity": 55.69,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:48:25 PM",
+    "temperature": 25.38,
+    "humidity": 42.9,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:48:30 PM",
+    "temperature": 29.49,
+    "humidity": 53.71,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:48:35 PM",
+    "temperature": 23.26,
+    "humidity": 46.37,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:48:40 PM",
+    "temperature": 20.26,
+    "humidity": 42.45,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:48:45 PM",
+    "temperature": 25.95,
+    "humidity": 42.37,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:48:50 PM",
+    "temperature": 25.73,
+    "humidity": 47.31,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:51:12 PM",
+    "temperature": 22.75,
+    "humidity": 51.73,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:51:17 PM",
+    "temperature": 22.22,
+    "humidity": 47.13,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:51:22 PM",
+    "temperature": 25.79,
+    "humidity": 57.83,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:51:27 PM",
+    "temperature": 27.07,
+    "humidity": 59.55,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:58:40 PM",
+    "temperature": 25.19,
+    "humidity": 58.26,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:58:45 PM",
+    "temperature": 24.38,
+    "humidity": 41.56,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:58:50 PM",
+    "temperature": 22.47,
+    "humidity": 42.16,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:58:55 PM",
+    "temperature": 20.76,
+    "humidity": 46.36,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:59:00 PM",
+    "temperature": 22.64,
+    "humidity": 45.68,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:59:05 PM",
+    "temperature": 22.47,
+    "humidity": 41.64,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:59:10 PM",
+    "temperature": 26.97,
+    "humidity": 58.03,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:59:15 PM",
+    "temperature": 20.39,
+    "humidity": 46.03,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:59:20 PM",
+    "temperature": 20.14,
+    "humidity": 56.71,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:59:25 PM",
+    "temperature": 25.62,
+    "humidity": 56.07,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:59:30 PM",
+    "temperature": 21.94,
+    "humidity": 47.49,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:59:35 PM",
+    "temperature": 24.22,
+    "humidity": 41.46,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:59:40 PM",
+    "temperature": 28.89,
+    "humidity": 58.67,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:59:45 PM",
+    "temperature": 27.12,
+    "humidity": 45.31,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 07:59:50 PM",
+    "temperature": 23.65,
+    "humidity": 50.07,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 07:59:55 PM",
+    "temperature": 29.71,
+    "humidity": 40.24,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:00:00 PM",
+    "temperature": 22.82,
+    "humidity": 41.69,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:00:05 PM",
+    "temperature": 21.87,
+    "humidity": 44.85,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:00:10 PM",
+    "temperature": 30,
+    "humidity": 46.22,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:00:15 PM",
+    "temperature": 24.02,
+    "humidity": 50.83,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:00:20 PM",
+    "temperature": 24.04,
+    "humidity": 41.8,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:00:25 PM",
+    "temperature": 26.36,
+    "humidity": 42.07,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:00:30 PM",
+    "temperature": 25.3,
+    "humidity": 50.73,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:00:35 PM",
+    "temperature": 26.91,
+    "humidity": 56.69,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:00:40 PM",
+    "temperature": 22.72,
+    "humidity": 59.7,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:00:45 PM",
+    "temperature": 25.56,
+    "humidity": 57.21,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:00:50 PM",
+    "temperature": 22.01,
+    "humidity": 43.71,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:00:55 PM",
+    "temperature": 23.64,
+    "humidity": 52.7,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:01:00 PM",
+    "temperature": 29.63,
+    "humidity": 49.91,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:01:05 PM",
+    "temperature": 28.21,
+    "humidity": 59.95,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:01:10 PM",
+    "temperature": 27.29,
+    "humidity": 44.37,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:01:15 PM",
+    "temperature": 24.94,
+    "humidity": 52.84,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:01:20 PM",
+    "temperature": 27.99,
+    "humidity": 45.26,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:01:25 PM",
+    "temperature": 22.09,
+    "humidity": 48.27,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:01:30 PM",
+    "temperature": 26.71,
+    "humidity": 57.1,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:01:35 PM",
+    "temperature": 23.58,
+    "humidity": 45.07,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:01:40 PM",
+    "temperature": 21.8,
+    "humidity": 54.71,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:01:45 PM",
+    "temperature": 25.5,
+    "humidity": 56.99,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:01:50 PM",
+    "temperature": 21.03,
+    "humidity": 57.51,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:01:55 PM",
+    "temperature": 22.11,
+    "humidity": 49.26,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:02:00 PM",
+    "temperature": 21.52,
+    "humidity": 45.73,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:02:05 PM",
+    "temperature": 29.35,
+    "humidity": 53.94,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:02:10 PM",
+    "temperature": 23.37,
+    "humidity": 45.56,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:02:15 PM",
+    "temperature": 26.78,
+    "humidity": 58.01,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:02:20 PM",
+    "temperature": 26.08,
+    "humidity": 51.19,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:02:25 PM",
+    "temperature": 25.2,
+    "humidity": 41.23,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:02:30 PM",
+    "temperature": 23.43,
+    "humidity": 46.26,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:02:35 PM",
+    "temperature": 29.34,
+    "humidity": 42.34,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:02:40 PM",
+    "temperature": 29.74,
+    "humidity": 52.3,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:02:45 PM",
+    "temperature": 21.86,
+    "humidity": 40.26,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:02:50 PM",
+    "temperature": 25.46,
+    "humidity": 59.86,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:02:55 PM",
+    "temperature": 24.91,
+    "humidity": 44.7,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:03:00 PM",
+    "temperature": 23.33,
+    "humidity": 56.05,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:03:05 PM",
+    "temperature": 23.24,
+    "humidity": 56.07,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:03:10 PM",
+    "temperature": 25.54,
+    "humidity": 45.44,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:03:15 PM",
+    "temperature": 24.16,
+    "humidity": 42.54,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:03:20 PM",
+    "temperature": 25.24,
+    "humidity": 47.08,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:03:25 PM",
+    "temperature": 23.75,
+    "humidity": 54.33,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:03:30 PM",
+    "temperature": 27.49,
+    "humidity": 46.66,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:03:35 PM",
+    "temperature": 26.47,
+    "humidity": 43.72,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:03:40 PM",
+    "temperature": 20.12,
+    "humidity": 50.67,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:03:45 PM",
+    "temperature": 26.17,
+    "humidity": 55.03,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:03:50 PM",
+    "temperature": 28.01,
+    "humidity": 54.92,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:03:55 PM",
+    "temperature": 26.34,
+    "humidity": 45.71,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:04:00 PM",
+    "temperature": 29.57,
+    "humidity": 53.52,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:04:05 PM",
+    "temperature": 20.87,
+    "humidity": 44.26,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:04:10 PM",
+    "temperature": 23.16,
+    "humidity": 48.26,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:04:15 PM",
+    "temperature": 26.63,
+    "humidity": 41.91,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:04:20 PM",
+    "temperature": 20.35,
+    "humidity": 41.92,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:04:25 PM",
+    "temperature": 27.8,
+    "humidity": 52.91,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:04:30 PM",
+    "temperature": 27.26,
+    "humidity": 49.4,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:04:35 PM",
+    "temperature": 24.25,
+    "humidity": 46.44,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:04:40 PM",
+    "temperature": 24.14,
+    "humidity": 53.57,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:04:45 PM",
+    "temperature": 23.35,
+    "humidity": 47.75,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:04:50 PM",
+    "temperature": 28.32,
+    "humidity": 54.29,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:04:55 PM",
+    "temperature": 26.42,
+    "humidity": 48.19,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:05:00 PM",
+    "temperature": 27.77,
+    "humidity": 57.88,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:05:05 PM",
+    "temperature": 28.14,
+    "humidity": 51.95,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:05:10 PM",
+    "temperature": 25.45,
+    "humidity": 48.59,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:05:15 PM",
+    "temperature": 26.89,
+    "humidity": 55,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:05:20 PM",
+    "temperature": 26.85,
+    "humidity": 44.52,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:05:25 PM",
+    "temperature": 28.26,
+    "humidity": 46.24,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:05:30 PM",
+    "temperature": 29.34,
+    "humidity": 49.67,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:05:35 PM",
+    "temperature": 23.15,
+    "humidity": 46.07,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:05:40 PM",
+    "temperature": 26.93,
+    "humidity": 59.25,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:05:45 PM",
+    "temperature": 22.01,
+    "humidity": 56.01,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:05:50 PM",
+    "temperature": 26.72,
+    "humidity": 49.99,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:05:55 PM",
+    "temperature": 24.81,
+    "humidity": 46.49,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:06:00 PM",
+    "temperature": 29.43,
+    "humidity": 46.42,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:06:05 PM",
+    "temperature": 28.23,
+    "humidity": 45.95,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:06:10 PM",
+    "temperature": 21.31,
+    "humidity": 49.9,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:06:15 PM",
+    "temperature": 21.85,
+    "humidity": 54.71,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:06:20 PM",
+    "temperature": 27.86,
+    "humidity": 44.3,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:06:25 PM",
+    "temperature": 22.6,
+    "humidity": 52.32,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:06:30 PM",
+    "temperature": 28.48,
+    "humidity": 45.14,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:06:35 PM",
+    "temperature": 28.37,
+    "humidity": 46.21,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:06:40 PM",
+    "temperature": 23.15,
+    "humidity": 47.5,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:06:45 PM",
+    "temperature": 24.45,
+    "humidity": 44.45,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:06:50 PM",
+    "temperature": 27.65,
+    "humidity": 48.89,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:06:55 PM",
+    "temperature": 22.3,
+    "humidity": 45.11,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:07:00 PM",
+    "temperature": 29.92,
+    "humidity": 54.77,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:07:05 PM",
+    "temperature": 21.37,
+    "humidity": 42.4,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:07:10 PM",
+    "temperature": 29.91,
+    "humidity": 50.5,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:07:15 PM",
+    "temperature": 25.09,
+    "humidity": 43.99,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:07:20 PM",
+    "temperature": 25.45,
+    "humidity": 40.46,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:07:25 PM",
+    "temperature": 21.34,
+    "humidity": 42.44,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:07:30 PM",
+    "temperature": 26.99,
+    "humidity": 49.03,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:07:35 PM",
+    "temperature": 25.11,
+    "humidity": 56.04,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:07:40 PM",
+    "temperature": 29.41,
+    "humidity": 54.22,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:07:45 PM",
+    "temperature": 24.21,
+    "humidity": 40.13,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:07:51 PM",
+    "temperature": 27.28,
+    "humidity": 59.87,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:07:56 PM",
+    "temperature": 22.14,
+    "humidity": 45.67,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:08:01 PM",
+    "temperature": 25.04,
+    "humidity": 49.73,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:08:06 PM",
+    "temperature": 23.78,
+    "humidity": 52.6,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:08:11 PM",
+    "temperature": 23.8,
+    "humidity": 57.08,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:08:16 PM",
+    "temperature": 28.87,
+    "humidity": 41.82,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:08:21 PM",
+    "temperature": 24.66,
+    "humidity": 54.73,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:08:26 PM",
+    "temperature": 23.63,
+    "humidity": 59.32,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:08:31 PM",
+    "temperature": 21.98,
+    "humidity": 59.7,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:08:36 PM",
+    "temperature": 21.06,
+    "humidity": 45.13,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:08:41 PM",
+    "temperature": 24.9,
+    "humidity": 42.28,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:08:46 PM",
+    "temperature": 21.28,
+    "humidity": 45.62,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:08:51 PM",
+    "temperature": 23.64,
+    "humidity": 52.54,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:08:56 PM",
+    "temperature": 25.92,
+    "humidity": 50.37,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:09:01 PM",
+    "temperature": 27.24,
+    "humidity": 46.74,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:09:06 PM",
+    "temperature": 26.42,
+    "humidity": 46.85,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:09:11 PM",
+    "temperature": 20.3,
+    "humidity": 40.87,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:09:16 PM",
+    "temperature": 26.33,
+    "humidity": 47.2,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:09:21 PM",
+    "temperature": 29.64,
+    "humidity": 47.47,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:09:26 PM",
+    "temperature": 21.45,
+    "humidity": 47.7,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:09:31 PM",
+    "temperature": 29.84,
+    "humidity": 40.81,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:09:36 PM",
+    "temperature": 22.69,
+    "humidity": 56.79,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:09:41 PM",
+    "temperature": 27.07,
+    "humidity": 58.36,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:09:46 PM",
+    "temperature": 24.19,
+    "humidity": 52.76,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:09:51 PM",
+    "temperature": 27.84,
+    "humidity": 45.61,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:09:56 PM",
+    "temperature": 27.18,
+    "humidity": 58.67,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:10:01 PM",
+    "temperature": 26.94,
+    "humidity": 48.42,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:10:06 PM",
+    "temperature": 27.23,
+    "humidity": 51.35,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:10:11 PM",
+    "temperature": 21.33,
+    "humidity": 54.85,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:10:16 PM",
+    "temperature": 25.16,
+    "humidity": 54.65,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:10:21 PM",
+    "temperature": 25.23,
+    "humidity": 46.17,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:10:26 PM",
+    "temperature": 22.23,
+    "humidity": 55.37,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:10:31 PM",
+    "temperature": 23.24,
+    "humidity": 57.69,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:10:36 PM",
+    "temperature": 29.1,
+    "humidity": 53.19,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:10:41 PM",
+    "temperature": 25.49,
+    "humidity": 56.95,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:10:46 PM",
+    "temperature": 23.93,
+    "humidity": 53.43,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:10:51 PM",
+    "temperature": 20.31,
+    "humidity": 44.43,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:10:56 PM",
+    "temperature": 26.02,
+    "humidity": 53.06,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:11:01 PM",
+    "temperature": 27.88,
+    "humidity": 57.62,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:11:06 PM",
+    "temperature": 25.57,
+    "humidity": 57.93,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:11:11 PM",
+    "temperature": 21.86,
+    "humidity": 54.93,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:11:16 PM",
+    "temperature": 20.68,
+    "humidity": 50.33,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:11:21 PM",
+    "temperature": 26.57,
+    "humidity": 53.26,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:11:26 PM",
+    "temperature": 21.96,
+    "humidity": 44,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:11:31 PM",
+    "temperature": 26.61,
+    "humidity": 47.58,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:11:36 PM",
+    "temperature": 26.69,
+    "humidity": 58.79,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:11:41 PM",
+    "temperature": 22.28,
+    "humidity": 46.34,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:11:46 PM",
+    "temperature": 26.73,
+    "humidity": 55.88,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:11:51 PM",
+    "temperature": 27.64,
+    "humidity": 52.36,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:11:56 PM",
+    "temperature": 26.5,
+    "humidity": 58.5,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:12:01 PM",
+    "temperature": 25.9,
+    "humidity": 40.07,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:12:06 PM",
+    "temperature": 21.41,
+    "humidity": 53.88,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:12:11 PM",
+    "temperature": 21.51,
+    "humidity": 40.81,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:12:16 PM",
+    "temperature": 22.11,
+    "humidity": 51.57,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:12:21 PM",
+    "temperature": 24.88,
+    "humidity": 52.12,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:12:26 PM",
+    "temperature": 20.37,
+    "humidity": 45.01,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:12:31 PM",
+    "temperature": 26.12,
+    "humidity": 58.47,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:12:36 PM",
+    "temperature": 22.31,
+    "humidity": 44.35,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:12:41 PM",
+    "temperature": 28.96,
+    "humidity": 49.66,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:12:46 PM",
+    "temperature": 23.08,
+    "humidity": 47.5,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:12:51 PM",
+    "temperature": 21.66,
+    "humidity": 49.22,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:12:56 PM",
+    "temperature": 29.58,
+    "humidity": 50.98,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:13:01 PM",
+    "temperature": 27.36,
+    "humidity": 56.37,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:13:06 PM",
+    "temperature": 26.96,
+    "humidity": 40.33,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:13:11 PM",
+    "temperature": 24.3,
+    "humidity": 49.03,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:13:16 PM",
+    "temperature": 26.18,
+    "humidity": 47.72,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:13:21 PM",
+    "temperature": 26.38,
+    "humidity": 54.34,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:13:26 PM",
+    "temperature": 21.07,
+    "humidity": 54.97,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:13:31 PM",
+    "temperature": 27.87,
+    "humidity": 48.87,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:13:36 PM",
+    "temperature": 23.95,
+    "humidity": 44.02,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:13:41 PM",
+    "temperature": 22.72,
+    "humidity": 50.49,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:13:46 PM",
+    "temperature": 23.05,
+    "humidity": 59.13,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:13:51 PM",
+    "temperature": 27.56,
+    "humidity": 47.06,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:13:56 PM",
+    "temperature": 29.36,
+    "humidity": 48.25,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:14:01 PM",
+    "temperature": 22.8,
+    "humidity": 40.44,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:14:06 PM",
+    "temperature": 22.72,
+    "humidity": 45.9,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:14:11 PM",
+    "temperature": 26.06,
+    "humidity": 56.09,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:14:16 PM",
+    "temperature": 24.51,
+    "humidity": 56.18,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:14:21 PM",
+    "temperature": 24.11,
+    "humidity": 58.06,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:14:26 PM",
+    "temperature": 24.6,
+    "humidity": 41.58,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:14:31 PM",
+    "temperature": 29.78,
+    "humidity": 41.8,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:14:36 PM",
+    "temperature": 21.68,
+    "humidity": 53.58,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:14:41 PM",
+    "temperature": 27.13,
+    "humidity": 46.51,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:14:46 PM",
+    "temperature": 25.95,
+    "humidity": 52.96,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:14:51 PM",
+    "temperature": 25.1,
+    "humidity": 43.06,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:14:56 PM",
+    "temperature": 29.07,
+    "humidity": 51.08,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:15:01 PM",
+    "temperature": 24.42,
+    "humidity": 44.61,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:15:06 PM",
+    "temperature": 23.56,
+    "humidity": 42.85,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:15:11 PM",
+    "temperature": 21.77,
+    "humidity": 57.59,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:15:16 PM",
+    "temperature": 20.75,
+    "humidity": 45.08,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:22:11 PM",
+    "temperature": 22.15,
+    "humidity": 48.66,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:22:16 PM",
+    "temperature": 22.63,
+    "humidity": 41.03,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:22:21 PM",
+    "temperature": 23.21,
+    "humidity": 57.64,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:22:26 PM",
+    "temperature": 28.28,
+    "humidity": 51.95,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:22:31 PM",
+    "temperature": 27.1,
+    "humidity": 54.15,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:22:36 PM",
+    "temperature": 28.86,
+    "humidity": 46.4,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:22:41 PM",
+    "temperature": 29.42,
+    "humidity": 57.44,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:22:46 PM",
+    "temperature": 25.87,
+    "humidity": 49.09,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:22:51 PM",
+    "temperature": 20.1,
+    "humidity": 52.52,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:22:56 PM",
+    "temperature": 29.04,
+    "humidity": 59.79,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:23:01 PM",
+    "temperature": 29.25,
+    "humidity": 51.55,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:23:06 PM",
+    "temperature": 27.52,
+    "humidity": 42.31,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:23:11 PM",
+    "temperature": 22.04,
+    "humidity": 45.1,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:23:16 PM",
+    "temperature": 28.59,
+    "humidity": 58.63,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:23:21 PM",
+    "temperature": 20.44,
+    "humidity": 43.21,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:23:26 PM",
+    "temperature": 27.97,
+    "humidity": 49.65,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:23:31 PM",
+    "temperature": 26.86,
+    "humidity": 51.81,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:23:36 PM",
+    "temperature": 27.4,
+    "humidity": 45.37,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:23:41 PM",
+    "temperature": 28.81,
+    "humidity": 47.24,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:23:46 PM",
+    "temperature": 20.62,
+    "humidity": 58.46,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:23:51 PM",
+    "temperature": 25.65,
+    "humidity": 52.05,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:23:56 PM",
+    "temperature": 23.03,
+    "humidity": 51.25,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:24:01 PM",
+    "temperature": 24.39,
+    "humidity": 46.29,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:24:06 PM",
+    "temperature": 22.13,
+    "humidity": 51.55,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:24:11 PM",
+    "temperature": 21.79,
+    "humidity": 53.61,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:24:16 PM",
+    "temperature": 20.01,
+    "humidity": 56.44,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:24:21 PM",
+    "temperature": 28.32,
+    "humidity": 56.26,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:24:26 PM",
+    "temperature": 25.51,
+    "humidity": 54.47,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:24:31 PM",
+    "temperature": 28.95,
+    "humidity": 46.82,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:24:36 PM",
+    "temperature": 29.12,
+    "humidity": 54.08,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:24:41 PM",
+    "temperature": 25.83,
+    "humidity": 51.56,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:24:46 PM",
+    "temperature": 20.69,
+    "humidity": 43.3,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:24:51 PM",
+    "temperature": 28.92,
+    "humidity": 50.5,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:24:56 PM",
+    "temperature": 23.46,
+    "humidity": 56.9,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:25:01 PM",
+    "temperature": 21.95,
+    "humidity": 51.76,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:25:06 PM",
+    "temperature": 28.35,
+    "humidity": 41.52,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:25:11 PM",
+    "temperature": 28.84,
+    "humidity": 56.04,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:25:16 PM",
+    "temperature": 24.27,
+    "humidity": 51.1,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:25:21 PM",
+    "temperature": 25.42,
+    "humidity": 57.86,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:25:46 PM",
+    "temperature": 20,
+    "humidity": 50.52,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:25:51 PM",
+    "temperature": 26.94,
+    "humidity": 54.71,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:25:56 PM",
+    "temperature": 29.8,
+    "humidity": 53.72,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:26:01 PM",
+    "temperature": 29.93,
+    "humidity": 46.42,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:26:06 PM",
+    "temperature": 20.25,
+    "humidity": 40.06,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:26:11 PM",
+    "temperature": 28.59,
+    "humidity": 51.11,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:26:16 PM",
+    "temperature": 29.91,
+    "humidity": 54.38,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:26:21 PM",
+    "temperature": 25.63,
+    "humidity": 44.23,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:26:26 PM",
+    "temperature": 27.83,
+    "humidity": 57.91,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:26:31 PM",
+    "temperature": 28.63,
+    "humidity": 55.68,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:26:36 PM",
+    "temperature": 20.6,
+    "humidity": 56.05,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:26:41 PM",
+    "temperature": 20,
+    "humidity": 47.12,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:26:46 PM",
+    "temperature": 25.07,
+    "humidity": 57.12,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:26:51 PM",
+    "temperature": 20.77,
+    "humidity": 49.27,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:39:20 PM",
+    "temperature": 20.47,
+    "humidity": 50.69,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:39:25 PM",
+    "temperature": 25.76,
+    "humidity": 45.66,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:39:30 PM",
+    "temperature": 24.47,
+    "humidity": 48.87,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:39:35 PM",
+    "temperature": 26.8,
+    "humidity": 40.79,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:40:26 PM",
+    "temperature": 20.95,
+    "humidity": 46.63,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:40:31 PM",
+    "temperature": 23.12,
+    "humidity": 51.19,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:40:41 PM",
+    "temperature": 20.89,
+    "humidity": 43.81,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:40:36 PM",
+    "temperature": 28.58,
+    "humidity": 48.46,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:40:51 PM",
+    "temperature": 29.9,
+    "humidity": 48.97,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:40:56 PM",
+    "temperature": 28.09,
+    "humidity": 58.02,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:41:01 PM",
+    "temperature": 22.04,
+    "humidity": 45.47,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:40:46 PM",
+    "temperature": 21.9,
+    "humidity": 49.46,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:41:06 PM",
+    "temperature": 20.99,
+    "humidity": 57.15,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:41:11 PM",
+    "temperature": 29.37,
+    "humidity": 53.1,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:41:16 PM",
+    "temperature": 22.73,
+    "humidity": 58.64,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:41:21 PM",
+    "temperature": 27.24,
+    "humidity": 43.73,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:41:26 PM",
+    "temperature": 20.7,
+    "humidity": 40.15,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:41:31 PM",
+    "temperature": 27.9,
+    "humidity": 58.27,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:41:36 PM",
+    "temperature": 29.49,
+    "humidity": 59.36,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:41:41 PM",
+    "temperature": 21.28,
+    "humidity": 43.91,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:41:46 PM",
+    "temperature": 25.87,
+    "humidity": 54.52,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:41:51 PM",
+    "temperature": 28.18,
+    "humidity": 54.26,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:41:56 PM",
+    "temperature": 21.68,
+    "humidity": 41.29,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:42:01 PM",
+    "temperature": 26.32,
+    "humidity": 57.33,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:42:06 PM",
+    "temperature": 27.43,
+    "humidity": 45.02,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:42:11 PM",
+    "temperature": 22.27,
+    "humidity": 46.25,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:42:16 PM",
+    "temperature": 21.6,
+    "humidity": 53.2,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:42:21 PM",
+    "temperature": 28.85,
+    "humidity": 43.44,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:42:26 PM",
+    "temperature": 24.88,
+    "humidity": 58.69,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:42:31 PM",
+    "temperature": 20.39,
+    "humidity": 41.2,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 08:42:36 PM",
+    "temperature": 28.29,
+    "humidity": 42.83,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:42:41 PM",
+    "temperature": 25.01,
+    "humidity": 42.47,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 08:42:46 PM",
+    "temperature": 25.05,
+    "humidity": 58.22,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:05:37 PM",
+    "temperature": 20.51,
+    "humidity": 53.8,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:05:42 PM",
+    "temperature": 28.66,
+    "humidity": 49.15,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:05:47 PM",
+    "temperature": 21.3,
+    "humidity": 54.51,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:05:52 PM",
+    "temperature": 25.49,
+    "humidity": 51.21,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:05:57 PM",
+    "temperature": 25.08,
+    "humidity": 50.26,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:06:13 PM",
+    "temperature": 25.36,
+    "humidity": 53.52,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 09:06:18 PM",
+    "temperature": 21.05,
+    "humidity": 45.84,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 09:06:23 PM",
+    "temperature": 28.8,
+    "humidity": 56.43,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:06:28 PM",
+    "temperature": 24.47,
+    "humidity": 43.26,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:06:33 PM",
+    "temperature": 20.45,
+    "humidity": 45.12,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 09:06:38 PM",
+    "temperature": 26.73,
+    "humidity": 41.3,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 09:06:43 PM",
+    "temperature": 24.08,
+    "humidity": 49.07,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:43:03 PM",
+    "temperature": 27.02,
+    "humidity": 44.38,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:43:08 PM",
+    "temperature": 27.63,
+    "humidity": 57.59,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 09:43:13 PM",
+    "temperature": 28.39,
+    "humidity": 40.42,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:43:18 PM",
+    "temperature": 25.31,
+    "humidity": 49.07,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:43:23 PM",
+    "temperature": 29.11,
+    "humidity": 42.21,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 09:43:28 PM",
+    "temperature": 25.85,
+    "humidity": 59.55,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 09:43:33 PM",
+    "temperature": 23.56,
+    "humidity": 48.69,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:43:38 PM",
+    "temperature": 24.64,
+    "humidity": 56.38,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:43:43 PM",
+    "temperature": 27.88,
+    "humidity": 43.38,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 09:43:48 PM",
+    "temperature": 24.45,
+    "humidity": 52.32,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:43:53 PM",
+    "temperature": 23.37,
+    "humidity": 47.6,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:43:58 PM",
+    "temperature": 27.54,
+    "humidity": 40.26,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:44:03 PM",
+    "temperature": 20.17,
+    "humidity": 53.1,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 09:44:08 PM",
+    "temperature": 22.3,
+    "humidity": 43.11,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:44:13 PM",
+    "temperature": 28.47,
+    "humidity": 55.35,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 09:44:18 PM",
+    "temperature": 23.62,
+    "humidity": 41.98,
+    "rain": 1
+  },
+  {
+    "timestamp": "25/07/2025 09:44:23 PM",
+    "temperature": 29.27,
+    "humidity": 56.58,
+    "rain": 0
+  },
+  {
+    "timestamp": "25/07/2025 09:44:28 PM",
+    "temperature": 27.12,
+    "humidity": 56.05,
+    "rain": 0
+  }
+]

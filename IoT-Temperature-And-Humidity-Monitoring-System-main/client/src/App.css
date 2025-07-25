@@ -1,0 +1,178 @@
+:root {
+  --primary-color: #04585e;
+}
+
+/* Container Styling */
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(135deg, #74ebd5 0%, #ACB6E5 100%);
+  color: #333;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+/* Header and Navigation */
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 3rem;
+  margin-bottom: 15px;
+  color: var(--primary-color);
+  text-shadow: 1px 1px 2px #d1d8e0;
+  transition: color 0.5s ease;
+}
+
+/* Navigation Buttons */
+.nav {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
+
+.nav-link {
+  color: #333;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.nav-link:hover {
+  color: #03635d;
+  text-decoration: underline;
+}
+
+.nav-link-hardware, .nav-link-dashboard {
+  background-color: #035858;
+  color: white !important;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 1.1rem;
+  transition: background-color 0.3s ease;
+  text-decoration: none;
+}
+
+.nav-link-hardware:hover, .nav-link-dashboard:hover {
+  background-color: #034e4f;
+  color: white !important;
+}
+
+/* Sensor Data Cards */
+.sensor-data {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.sensor-data-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 15px;
+  padding: 25px 30px;
+  flex: 1 1 250px;
+  box-shadow: 0 8px 20px rgba(2, 95, 87, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.sensor-data-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 30px rgba(2, 92, 62, 0.2);
+}
+
+.sensor-data-item h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  color: #035245;
+}
+
+.sensor-data-item p {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #03635d;
+}
+
+/* Chart Section */
+.charts {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.LineCharts {
+  flex: 1 1 450px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(2, 105, 96, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.LineCharts:hover {
+  box-shadow: 0 12px 30px rgba(3, 114, 103, 0.2);
+}
+
+.LineCharts .title {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  color: #034c53;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .sensor-data {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sensor-data-item {
+    width: 90%;
+    margin: 10px 0;
+  }
+
+  .charts {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .LineCharts {
+    width: 90%;
+    margin: 20px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 2.2rem;
+  }
+
+  .sensor-data-item h2,
+  .LineCharts .title {
+    font-size: 1.4rem;
+  }
+
+  .sensor-data-item p {
+    font-size: 1.2rem;
+  }
+}
+
