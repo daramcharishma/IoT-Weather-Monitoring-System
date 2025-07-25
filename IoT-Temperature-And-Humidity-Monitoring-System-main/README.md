@@ -107,6 +107,6 @@ node server.js
 ---
 
 
-## 👩‍💻 Author
+## By
 
-- **Charishma**  
+Charishma 
